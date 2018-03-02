@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"java",
+				"javadoc\tjavadoc"
+			],
+			[
+				"d",
+				"directory"
+			],
+			[
+				"make",
+				"makecase"
+			],
+			[
+				"mak",
+				"makecase"
+			],
+			[
+				"tar",
+				"tarball"
+			],
+			[
+				"m",
+				"makefile"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"thr",
+				"threeb"
+			],
+			[
+				"li",
+				"libraries"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"MD",
+				"MD5_DIGEST_LENGTH"
+			],
+			[
+				"hash",
+				"hashes"
+			],
+			[
+				"mon",
+				"money"
+			],
+			[
+				"ran",
+				"random_order"
+			],
+			[
+				"id",
+				"id_string_right"
+			],
+			[
+				"id_",
+				"id_bits"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"A",
+				"ARRAY_MAX"
+			],
+			[
+				"bit",
+				"bit_commit"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"unique",
+				"unique"
+			],
+			[
+				"mone",
+				"money_order"
+			],
+			[
+				"ide",
+				"identity_string"
+			],
+			[
+				"fp",
+				"fprintf\tfprintf …"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"fil",
+				"file_ptr"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"su",
+				"substitute_decrypt"
+			],
+			[
+				"key",
+				"keymix"
+			],
+			[
+				"ke",
+				"keymix"
+			],
+			[
+				"mask",
+				"mask"
+			],
+			[
+				"left",
+				"leftmask"
+			],
+			[
+				"ff",
+				"0xFF"
+			],
+			[
+				"0xFF",
+				"0xFF"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"si",
+				"Size"
+			],
+			[
+				"as",
+				"asize"
+			],
+			[
+				"no",
+				"no"
+			],
+			[
+				"h",
+				"heaphead"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"MIN",
+				"MINIMUM"
+			],
+			[
+				"array",
+				"arraySize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: java",
+				"Snippet: javadoc"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Snippet: j",
+				"Snippet: java.beans."
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/noah/Documents/CSE213/Homework/homework 0/com",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/one",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/three",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/two"
+	],
+	"file_history":
+	[
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/one/FizzBuzz.java",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/three/Alice.java",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/two/Guess.java",
+		"/home/noah/Documents/CSE213/Homework/homework 0/alice.txt",
+		"/home/noah/Documents/CSE213/Homework/homework 0/alice_in_mixed_case.txt",
+		"/home/noah/Documents/CSE213/Homework/homework 0/submitted/com/ncherry/hw0/three/Alice.java",
+		"/home/noah/Documents/CSE213/Homework/homework 0/submitted/com/ncherry/hw0/two/Guess.java",
+		"/home/noah/.config/sublime-text-3/Packages/User/javadoc.sublime-snippet",
+		"/home/noah/Documents/CSE213/Homework/homework 0/submitted/com/ncherry/hw0/one/Fizz.java",
+		"/home/noah/Documents/CSE213/Homework/Java Doc Example",
+		"/home/noah/Documents/CSE213/Homework/homework 0/FizzBuzz.java",
+		"/home/noah/Documents/CSE213/Homework/homework 0/com/ncherry/hw0/one/FizzBuzz",
+		"/home/noah/Documents/CSE213/Homework/homework 0/cse213_hw0.pdf",
+		"/home/noah/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/noah/Documents/CSE213/Homework/Sublime/Hello.java",
+		"/home/noah/Documents/CSE221/hw0/dec2hex.c",
+		"/home/noah/Documents/CSE222/Homework/homework 1/linenum",
+		"/home/noah/Documents/CSE222/Homework/homework 1/one-liners",
+		"/home/noah/Documents/CSE222/Homework/homework 1/tarmachine",
+		"/home/noah/Documents/CSE222/Homework/homework 0/commands.txt",
+		"/home/noah/Documents/CSE222/Homework/homework 1/find_stat",
+		"/home/noah/Documents/CSE222/Homework/homework 0/passwd",
+		"/home/noah/Documents/CSE222/hw 0/commands.txt",
+		"/home/noah/Documents/CSE222/commands.txt",
+		"/home/noah/Documents/CSE222/hw 0/web2",
+		"/home/noah/Documents/CSE222/hw 0/alice_unique",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/semiprimes",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/CFF/gff.py",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/CFF/rosettacodecpp.c",
+		"/home/noah/Documents/CSE221/homework 5/cse221_noah_cherry_hw5.txt",
+		"/home/noah/Documents/CSE221/lab 4/target54/farm.txt",
+		"/home/noah/Documents/CSE221/lab 4/target54/drtarget.txt",
+		"/home/noah/Documents/CSE221/lab 4/target54/sources/phase1.txt",
+		"/home/noah/Documents/CSE221/lab 4/target54/farm.c",
+		"/home/noah/Documents/CSE221/lab 4/target54/README.txt",
+		"/home/noah/Documents/CSE221/lab 4/target54/cookie.txt",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/primes",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/ssqff/ssqff.c",
+		"/home/noah/Documents/CSE445/project/presentation demonstration/PyFactorise-master/factorise.py",
+		"/home/noah/Documents/CSE445/homework 4/hash.c",
+		"/home/noah/Documents/CSE445/homework 4/customer.c",
+		"/home/noah/Documents/CSE445/homework 4/bank.c",
+		"/home/noah/Documents/CSE445/homework 4/merchant.c",
+		"/home/noah/Documents/CSE221/digital-cash-fast-GUI-master/DigitalCashFastGUI.cpp",
+		"/home/noah/Documents/CSE221/digital-cash-fast-GUI-master/README.md",
+		"/home/noah/Documents/CSE445/homework 4/md5.c",
+		"/home/noah/Documents/CSE445/homework 4/md5 (1).c",
+		"/home/noah/Documents/CSE445/homework 4/MO0",
+		"/home/noah/Documents/CSE445/homework 4/digital-cash-fast-GUI-master/PythonGUIversion.py",
+		"/home/noah/Documents/CSE445/homework 4/digital-cash-fast-GUI-master/DigitalCashFastGUI.cpp",
+		"/home/noah/Documents/CSE221/hw0/hex2dec.c",
+		"/home/noah/Documents/CSE445/homework 2/spn.c",
+		"/home/noah/Documents/CSE221/hw2/decode2.c",
+		"/home/noah/Documents/CSE221/hw3/remake/Makefile",
+		"/home/noah/Documents/CSE221/hw3/Makefile",
+		"/home/noah/Documents/CSE221/hw3/gcd.s",
+		"/home/noah/Documents/CSE221/hw3/3.64.txt",
+		"/home/noah/Documents/CSE221/lab 2/lab2-handout/Makefile",
+		"/home/noah/Documents/CSE221/hw3/3.63.txt",
+		"/home/noah/Documents/CSE221/hw3/up.s",
+		"/home/noah/Documents/CSE445/homework 3/|   0   1   2   3   4   5   6   7   8   9   a",
+		"/home/noah/Documents/CSE445/homework 3/table5.c",
+		"/home/noah/Documents/CSE445/homework 2/lat.c",
+		"/home/noah/Documents/CSE445/homework 2/array.c",
+		"/home/noah/Documents/CSE221/hw3/primes_stack.s",
+		"/home/noah/Documents/CSE221/hw3/test",
+		"/home/noah/Documents/CSE221/hw3/et_tu_brutue.s",
+		"/home/noah/Documents/CSE221/hw3/caesar.s",
+		"/home/noah/Documents/CSE221/cardiac/miltiply.s",
+		"/home/noah/Documents/CSE221/cardiac/multiply.c-comments",
+		"/home/noah/Documents/CSE221/lab 2/lab2-handout/bits.c",
+		"/home/noah/Documents/CSE221/lab 2/lab2-handout/README",
+		"/home/noah/Documents/CSE221/lab 1/lab1-handout/README",
+		"/home/noah/Documents/CSE221/lab 1/lab1-handout/bits.c",
+		"/home/noah/Documents/CSE221/lab 1/lab1-handout/fshow.c",
+		"/home/noah/Documents/CSE221/hw 1/err.h",
+		"/home/noah/Documents/CSE221/hw 1/err.c",
+		"/home/noah/Documents/CSE221/hw 1/test_bits.c",
+		"/home/noah/Documents/CSE221/hw 1/bits.h",
+		"/home/noah/Documents/CSE221/hw 1/bits.c",
+		"/home/noah/Documents/CSE221/hw0/doxygen.c",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/Makefile",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/mm1.c",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/mm.c",
+		"/home/noah/Documents/CSE221/lab 5/mm.c",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/fcyc.c",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/mm.h",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/config.h",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/memlib.c",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/traces/README",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/README",
+		"/home/noah/Documents/CSE221/lab 5/malloclab-handout/mdriver.c",
+		"/home/noah/Documents/CSE221/lab 4/target41/farm.c",
+		"/home/noah/Documents/CSE221/lab 4/target41/Notes.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/cexp3.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/rexp2.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/objdc",
+		"/home/noah/Documents/CSE221/lab 4/target41/bojr",
+		"/home/noah/Documents/CSE221/lab 4/target41/rexp1.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/val.s",
+		"/home/noah/Documents/CSE221/lab 4/target41/val.d",
+		"/home/noah/Documents/CSE221/lab 4/target41/cexp2.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/phase4.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/rexp4.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/test.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/val.o",
+		"/home/noah/Documents/CSE221/lab 4/target41/phase3.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/phase2.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/phase1.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/cookie.txt",
+		"/home/noah/Documents/CSE221/cse221_noah_cherry_hw4.txt",
+		"/home/noah/Documents/CSE221/lab 4/target41/README.txt",
+		"/home/noah/Documents/CSE221/hw2/cpuid_printf.s",
+		"/home/noah/Documents/CSE221/hw3/eratosthenes.s",
+		"/home/noah/Documents/CSE221/hw2/foo.s",
+		"/home/noah/Documents/CSE221/hw2/hello.s",
+		"/home/noah/Documents/CSE221/hw2/rpn.s",
+		"/home/noah/Documents/CSE221/hw2/cpuid_write.s",
+		"/home/noah/Documents/CSE221/hw3/3.60.txt",
+		"/home/noah/Documents/CSE221/hw3/War_of_the_Worlds"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sh",
+			"d",
+			"Majesty",
+			"farm",
+			"];\n",
+			"calcKs",
+			"f2",
+			"f3",
+			"f2",
+			"f1",
+			"f0",
+			"256",
+			"sizeof",
+			"0, 0, 0, 0,",
+			"return in;",
+			"ld",
+			"insert",
+			"bp",
+			"removeblock",
+			"PREV_PTR",
+			"NEXT_PTR",
+			"FTRP",
+			"HDRP",
+			"SIZE",
+			"csize",
+			"BUILD_WORD",
+			"GET_HSIZE",
+			"BWORD",
+			"PREV_BLK",
+			"NEXT_BLK",
+			"FOOTER",
+			"HEADER",
+			"remove",
+			"mm_remove",
+			"mminsert",
+			"mm_insert",
+			"printblock",
+			"checkblock",
+			"/**",
+			"listp",
+			"PREV_PTR",
+			"NEXT_PTR",
+			"SET_FTRP",
+			"SET_HDRP",
+			"bp",
+			"extendsize",
+			"*bp",
+			"extend_heap",
+			"heap_listp",
+			"JOIN",
+			"MAX",
+			"find_fit",
+			"GET",
+			"PACK",
+			"pack",
+			"MAX",
+			"chunksize",
+			"overhead",
+			"blksize",
+			"mm",
+			"heaphead",
+			"heap",
+			"48 89",
+			"48 89 37",
+			"07 48",
+			"89 ",
+			"89 c1 ",
+			"89 c1 20 ",
+			"89 c1 20 c9",
+			"48 89 e0",
+			"48 89 c7",
+			"48 89 c7 ",
+			"58",
+			"48 89 c7",
+			"58",
+			"58 c3",
+			"0d",
+			"5f",
+			"58 ",
+			"58 c3",
+			"48 89 c7 ",
+			"58",
+			"48 89 c7",
+			"start",
+			"5f",
+			"48 89 c7 ",
+			"58",
+			"48 89 c7 c3",
+			"58",
+			"getbuf",
+			"gets",
+			"main",
+			"%rdi",
+			"buf",
+			"get",
+			"is_prime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"calculate_k",
+			"h2",
+			"h3",
+			"h1",
+			"h0",
+			"ARRAY_MAX",
+			"strlen",
+			"'0', '0', '0', '0',",
+			"return 0;",
+			"ud",
+			"insertnode",
+			"block",
+			"deletenode",
+			"PREV_POINTER",
+			"NEXT_POINTER",
+			"FOOTER_POINTER",
+			"old",
+			"GET_HEAP_SIZE",
+			"BUILD_WORD",
+			"PREV_BLOCK",
+			"NEXT_BLOCK",
+			"SET_FOOTER",
+			"SET_HEADER",
+			"removeblock",
+			"remove",
+			"insert",
+			"mminsert",
+			"printblock",
+			"blockverify",
+			"/*",
+			"heaphead",
+			"PREV",
+			"NEXT",
+			"FOOTER",
+			"HEADER",
+			"block",
+			"extend",
+			"*block",
+			"stretch",
+			"heaphead",
+			"BWORD",
+			"join",
+			"space_explorer",
+			"READ",
+			"JOIN",
+			"CHUNK",
+			"PACKAGE",
+			"MINIMUM",
+			"heap",
+			"list"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homework 0.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
